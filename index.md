@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Me chamo Lucas, sou fotógrafo, estudante de Ciência da Computação (_por enquanto_).
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Aqui devo compartilhar minhas aventuras e desventuras no universo de criação criativa, falando de audiovisual, escrita e programação (por pior que eu seja).
