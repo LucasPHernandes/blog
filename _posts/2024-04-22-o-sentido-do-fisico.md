@@ -12,4 +12,21 @@ Volto o pensamento de hoje especificamente a uma mídia que por mais que tenha c
 
 É fácil levantar certa estranheza (principalmente quando acaba de começar a se aventurar no mundo da fotografia/arte) quando encontra-se um livro de fotografias sendo vendido por mais de __R$1000,00__ (_mil reais_). Tal estranheza não aplica-se ao conteúdo em sí, muito menos critica-se tal obra - ainda mais quando seu autor é nada mais nada menos que Sebastião Salgado - mas torna-se fruto de tal curiosidade sua mídia de distribuição, um livro.
 
-É necessário salientar para aqueles que não estão exatamente à par do universo das fotografias, que livros de fotografia não são necessariamente novidade ou impopulares.
+É necessário salientar para aqueles que não estão exatamente à par do universo das fotografias, que livros de fotografia não são necessariamente novidade ou impopulares, mas é notável sua crescente decaída em relação a outros formatos de publicação, em especial pelas redes sociais como Instagram ou plataformas específicas para fotógrafos.
+
+A curiosidade recaí especialmente nos motivos aos quais levaria alguém a comprar _"""um álbum de fotografias de mil reais"""_ (***declaração MUITO polemica e que obviamente foge da intenção de comparar uma obra de Sebastião Salgado a um simples álbum de fotografias, apesar de na prática pura e técnica não deixar de ser um álbum de fotografias...***), as variáveis são muitas, um entusiasta, um estudante, uma editora, etc e etc.
+
+Talvez a pergunta não seja quem, mas onde e porque...
+
+Entre diferentes _feeds_, notificações e competição entre milhares de outras publicações, talvez não seja tão absurdo a tentativa de exigir intenção e atenção quando se trata de uma publicação de um trabalho que possivelmente tenha durado uma vida toda para ser feito. Quando vemos uma foto a tendência é tratá-la com certa banalidade, muitas vezes não dando tempo necessário para amadurecer o que transpassa por intermédio de tal mídia.
+
+Uma foto entre milhares de outras fotos, envoltas de diferentes estilos, abordagens e intencionalidades, fica difícil exigir senso crítico, aqui adicionaria o fator da intenção, não por parte do autor, mas por parte da figura que o observa através de uma imagem.
+
+Sinto que tal mídia física é responsável por ampliar esse fator, onde as imagens não brotam simplesmente na timeline, onde não há hiperestimulação, onde há simplesmente imagens e textos, sem sons, sem notificações.
+
+Ler e absorver um livro de fotografias requer esforço independentemente do objetivo, se técnico ou recreativo, ainda que seu acesso torna-se prejudicado uma vez que tais publicações chegam especialmente ao mercado brasileiro com preço altíssimos, seja pelo preço de impressão, seja pelos nomes consolidados que o apresentam.
+
+Já o _sentido físico_ dessas coisas, talvez se resume a intencionalidade passiva de quem o lê e o absorve onde o físico (tátil) talvez esteja tornado-se o novo luxo...
+
+### Obs:
+Essa é a minha primeira postagem depois de muito tempo em hiato, falando sobre um assunto que simplesmente emergiu em minha cabeça, se o texto parecer simples ou não fizer muito sentido simplesmente o desconsidere, vou melhorar para os próximos textos!
