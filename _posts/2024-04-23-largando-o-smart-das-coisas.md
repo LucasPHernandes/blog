@@ -1,5 +1,7 @@
 ## Largando o _"smart"_ das coisas
 
+![](./burro_largando_smart_POSTER.png)
+
 É impossível negar o quanto a tecnologia evoluiu na última década, ao ponto em que praticamente tudo o que precisamos (_e tudo aquilo o que não precisamos_) está ao alcance da palma das nossas mãos por intermédio de um __smart__ phone. Músicas, filmes, mensagens, fotos, redes sociais e pesquisas, tudo isso sempre conosco e muitas vezes ao mesmo tempo.
 
 E é justamente por essa variedade de coisas acontecendo ao mesmo tempo a quase todo o instante ao nosso alcance, que nos últimos 4-6 anos é possível notar um crescente interesse, muitas vezes por novas gerações, nos chamados _dumbphones_ ou _celulares "burros"_. Esse interesse nem de longe representa qualquer tipo de tendência de mercado ou real predileção por esses dispositivos aos já consolidados smartphones.
@@ -38,3 +40,7 @@ Por maiores que as perdas e facilidades possam ser, para muitos, os dumbphones d
 Novamente nos voltamos a palavra chave: __intencionalidade__
 
 Ter menos opções a disposição a todo momento, também significa uma maior objetividade e intenção por trás de cada ação, ler um livro, pesquisar algo, ouvir música deixam de ser uma leve distração para participar ativamente e conscientemente de uma decisão formada pelo usuário, sem que exista algum fator não controlável embutido nas decisões (ou não) tomadas.
+
+### Referencial:
+Pesquisa: [_Swapping 5G for 3G : Motivations, Experiences, and Implications of Contemporary Dumbphone Adoption_](https://research.aalto.fi/en/publications/swapping-5g-for-3g-motivations-experiences-and-implications-of-co)
+
